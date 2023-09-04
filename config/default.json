@@ -1,0 +1,18 @@
+{
+  "mongoURI": "mongodb+srv://hhimanshu030:<password>@cluster0.qondpde.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "eyJraWQiOiI5MjNmMDg1Zi0yM2ExLTQ1OGItODEyNy01NDdkYTZiOGVkMWYiLCJhbGciOiJSUzI1NiJ9.ew0KICAic3ViIjogIjEyMzQ1Njc4OTAiLA0KICAibmFtZSI6ICJQYW5rYWogWWFkYXYiLA0KICAiaWF0IjogMTUxNjIzOTAyMg0KfQ.TRcShP6bLm4gHKWBPtvt7IcgllR_aJ5AmkS1skBOlYPIlSg-btrJ60-lA5Q5gbJfnhIG8QOkfQRRFtT4RKSQiqJLR8XdDYrTnO2Q84c9Mz9kRtMsc-esarYrwDXDT6bA4OBBWIohr43V_JSMElPW_fkt2IYjaF7m7ITNObVTJKCfgiEWeIWFzCMWEydQCAsZNIflNjFT6qJBGYj49RjxgG_LKgIP7Bd3Kd2YofYcPHZIVG5LhMbkYzGXrkuAnnXUVGFpF5TpIOCQlp_cVrUnWG9u8V939E59a76wV0LwbhLpuyC-WHAsg4ZFooJt55aVsqBCp6n-docZ9_YXzzlCtw",
+  "jwtOptions": {
+    "issuer": "mahagunindia.com",
+    "expiresIn": 172800,
+    "audience": "customers.mahagunindia.com",
+    "subject": "identifier"
+  },
+  "aws": {
+    "accessKeyId": "AKIAR7CJ6OFIZSAVBNGS",
+    "secretAccessKey": "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",
+    "region": "us-east-1",
+    "region2": "ap-south-1",
+    "kmsKeyId": "f47aeecf-f231-49dd-9c17-77e28e2e54ff",
+    "identityPoolId": "ap-south-1:bd800c7f-da53-4e7d-b777-1b274d786096"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "mahagun-customers-api",
+  "version": "1.0.0",
+  "description": "Mahagun Developers API",
+  "main": "app.js",
+  "scripts": {
+    "start": "pm2-runtime start ecosystem.config.cjs --env production",
+    "deploy": "git push && eb deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "aws-cloudfront-sign": "^2.2.0",
+    "aws-sdk": "^2.1256.0",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "config": "^3.3.8",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "express-validator": "^6.14.2",
+    "express-winston": "^4.2.0",
+    "express-ws": "^5.0.2",
+    "helmet": "^6.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.7.2",
+    "nodemailer": "^6.8.0",
+    "numeral": "^2.0.6",
+    "path": "^0.12.7",
+    "pm2": "^5.2.2",
+    "randomstring": "^1.2.3",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "type": "module"
+}
