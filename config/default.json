@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://hhimanshu030:C00!buddy@cluster0.qondpde.mongodb.net/?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://adminconsole:YrfoawtzoAiPgPls@mahaguncustomers.cx0glsp.mongodb.net/mahagun?retryWrites=true&w=majority",
   "jwtSecret": "eyJraWQiOiI5MjNmMDg1Zi0yM2ExLTQ1OGItODEyNy01NDdkYTZiOGVkMWYiLCJhbGciOiJSUzI1NiJ9.ew0KICAic3ViIjogIjEyMzQ1Njc4OTAiLA0KICAibmFtZSI6ICJQYW5rYWogWWFkYXYiLA0KICAiaWF0IjogMTUxNjIzOTAyMg0KfQ.TRcShP6bLm4gHKWBPtvt7IcgllR_aJ5AmkS1skBOlYPIlSg-btrJ60-lA5Q5gbJfnhIG8QOkfQRRFtT4RKSQiqJLR8XdDYrTnO2Q84c9Mz9kRtMsc-esarYrwDXDT6bA4OBBWIohr43V_JSMElPW_fkt2IYjaF7m7ITNObVTJKCfgiEWeIWFzCMWEydQCAsZNIflNjFT6qJBGYj49RjxgG_LKgIP7Bd3Kd2YofYcPHZIVG5LhMbkYzGXrkuAnnXUVGFpF5TpIOCQlp_cVrUnWG9u8V939E59a76wV0LwbhLpuyC-WHAsg4ZFooJt55aVsqBCp6n-docZ9_YXzzlCtw",
   "jwtOptions": {
     "issuer": "mahagunindia.com",
