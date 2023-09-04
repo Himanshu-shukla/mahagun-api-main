@@ -8,8 +8,8 @@
     "subject": "identifier"
   },
   "aws": {
-    "accessKeyId": "AKIAR7CJ6OFIZSAVBNGS",
-    "secretAccessKey": "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",
+    "accessKeyId": "AKIAR7CJ6OFIRIXLSIRZ",
+    "secretAccessKey": "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",
     "region": "us-east-1",
     "region2": "ap-south-1",
     "kmsKeyId": "f47aeecf-f231-49dd-9c17-77e28e2e54ff",
